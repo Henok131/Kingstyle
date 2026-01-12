@@ -1,0 +1,22 @@
+# Secrets / env
+.env
+.env.*
+!.env.example
+
+# Dependencies / builds (common)
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+.output/
+.vercel/
+
+# Logs
+*.log
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
